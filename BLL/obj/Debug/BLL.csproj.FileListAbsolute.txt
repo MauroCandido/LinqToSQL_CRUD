@@ -1,0 +1,4 @@
+C:\Estudos .NET\Studies\LinqToSQL_CRUD\LinqToSQL_CRUD\BLL\bin\Debug\BLL.dll
+C:\Estudos .NET\Studies\LinqToSQL_CRUD\LinqToSQL_CRUD\BLL\bin\Debug\BLL.pdb
+C:\Estudos .NET\Studies\LinqToSQL_CRUD\LinqToSQL_CRUD\BLL\obj\Debug\BLL.dll
+C:\Estudos .NET\Studies\LinqToSQL_CRUD\LinqToSQL_CRUD\BLL\obj\Debug\BLL.pdb

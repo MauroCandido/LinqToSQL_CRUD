@@ -1,0 +1,12 @@
+C:\Estudos .NET\Studies\LinqToSQL_CRUD\LinqToSQL_CRUD\people\obj\Debug\people.csprojResolveAssemblyReference.cache
+C:\Estudos .NET\Studies\LinqToSQL_CRUD\LinqToSQL_CRUD\people\obj\Debug\people.Properties.Resources.resources
+C:\Estudos .NET\Studies\LinqToSQL_CRUD\LinqToSQL_CRUD\people\obj\Debug\people.csproj.GenerateResource.Cache
+C:\Estudos .NET\Studies\LinqToSQL_CRUD\LinqToSQL_CRUD\people\obj\Debug\people.frmPeople.resources
+C:\Estudos .NET\Studies\LinqToSQL_CRUD\LinqToSQL_CRUD\people\bin\Debug\people.exe.config
+C:\Estudos .NET\Studies\LinqToSQL_CRUD\LinqToSQL_CRUD\people\bin\Debug\people.exe
+C:\Estudos .NET\Studies\LinqToSQL_CRUD\LinqToSQL_CRUD\people\bin\Debug\people.pdb
+C:\Estudos .NET\Studies\LinqToSQL_CRUD\LinqToSQL_CRUD\people\bin\Debug\DAL.dll
+C:\Estudos .NET\Studies\LinqToSQL_CRUD\LinqToSQL_CRUD\people\bin\Debug\DAL.pdb
+C:\Estudos .NET\Studies\LinqToSQL_CRUD\LinqToSQL_CRUD\people\bin\Debug\DAL.dll.config
+C:\Estudos .NET\Studies\LinqToSQL_CRUD\LinqToSQL_CRUD\people\obj\Debug\people.exe
+C:\Estudos .NET\Studies\LinqToSQL_CRUD\LinqToSQL_CRUD\people\obj\Debug\people.pdb

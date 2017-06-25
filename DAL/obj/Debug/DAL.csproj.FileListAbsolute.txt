@@ -1,0 +1,6 @@
+C:\Estudos .NET\Studies\LinqToSQL_CRUD\LinqToSQL_CRUD\DAL\bin\Debug\DAL.dll.config
+C:\Estudos .NET\Studies\LinqToSQL_CRUD\LinqToSQL_CRUD\DAL\bin\Debug\DAL.dll
+C:\Estudos .NET\Studies\LinqToSQL_CRUD\LinqToSQL_CRUD\DAL\bin\Debug\DAL.pdb
+C:\Estudos .NET\Studies\LinqToSQL_CRUD\LinqToSQL_CRUD\DAL\obj\Debug\DAL.dll
+C:\Estudos .NET\Studies\LinqToSQL_CRUD\LinqToSQL_CRUD\DAL\obj\Debug\DAL.pdb
+C:\Estudos .NET\Studies\LinqToSQL_CRUD\LinqToSQL_CRUD\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
